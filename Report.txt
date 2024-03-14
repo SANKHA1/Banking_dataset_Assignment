@@ -1,0 +1,13 @@
+Report:-
+
+Data Cleaning Summary:
+
+Corrected OCR-like errors in account numbers. Descriptions columns did not have OCR errors. Normalized amount values across transactions, handling currency symbols and negative values.
+
+Data Analysis Summary:
+
+Individual transactions were separated from aggregated data. No discrepancies were found in transaction reconciliation.
+
+Anomaly Detection Summary:
+
+There were no unusual transactions based on amount criteria.
